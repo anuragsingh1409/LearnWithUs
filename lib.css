@@ -58,8 +58,9 @@ body {
 
   .navbar li a:hover,
   .navbar li a.active {
-    color: black;
+    color: rgb(165, 28, 28);
     text-decoration: solid;
+    
   }
 
   .btn {
