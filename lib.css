@@ -68,10 +68,10 @@ body {
     margin: 0px 9px;
     background-color: black;
     color: white;
-    padding: 4px 14px;
+    padding: 8px 26px;
     /* border: 2px solid grey; */
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 16px;
     cursor: pointer;
   }
 
@@ -140,5 +140,11 @@ body {
       font-size: 15px;
   }
   .container3 button:hover{
-    background-color:transparent) ;
+    background-color:transparent;
+  }
+  h2 {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
   }
