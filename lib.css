@@ -68,12 +68,12 @@ body {
   .btn {
     font-family: 'Baloo Paaji 2', cursive;
     margin: 0px 9px;
-    background-color: black;
+    background-color: grey;
     color: white;
-    padding: 8px 26px;
-    /* border: 2px solid grey; */
-    border-radius: 10px;
-    font-size: 16px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
     cursor: pointer;
   }
 
@@ -144,14 +144,15 @@ body {
   .container3 button:hover{
     background-color:transparent;
   }
-  h2 {
-    text-align: center;
-  }
-  h1 {
-    text-align: center;
-  }
   .footer{
     text-align: center;
     /* color: aqua; */
 
+  }
+  li{
+    padding: 6px 0px;
+  }
+  .active{
+    padding: 10px;
+    font-size: 20px;
   }
